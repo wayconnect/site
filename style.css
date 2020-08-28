@@ -1,0 +1,19 @@
+body{
+	font-family: 'Montserrat', sans-serif;
+}
+
+.container-wrapper{
+	position: relative;
+	margin: auto;
+	width: 880px;
+	height: 950px;
+	border: 1px solid #cecece;
+}
+
+.container-header{
+	position: absolute;
+	margin: auto;
+	width: 880px;
+	height: 100px;
+	background-color: #cecec0;
+}
